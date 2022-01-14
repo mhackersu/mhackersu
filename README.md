@@ -4,8 +4,8 @@
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
 ### Work Experience
-DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
-DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
+- DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
+- DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
 Software Engineer - PHDV (2019.06 ~ 2020.01) - [Full-time, Contract]
 Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]
 Front-End Developer - Mangstor (2018.01 ~ 2018.06) - [Full-time, Startup]

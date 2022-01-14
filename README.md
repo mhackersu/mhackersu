@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Professional Summary
+DevOps Engineer and developer advocate with hands-on SRE experience, creating high-quality individual re-usable and dry code contributions, specifically IaC and CICD, for digital innovation, software engineering, and application development teams.

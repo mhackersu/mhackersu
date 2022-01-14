@@ -3,6 +3,10 @@
     E-mail : mikehacker.dev@gmail.com
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
+### About me
+- 🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
+- 🌱 I’m currently learning more about CrossPlane and the Terraform K8 provider.
+
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
@@ -21,9 +25,8 @@
 - University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Business Foundations, Full-time]
 - Collin County Community College (1998.08 ~ 1999.12) [A.S. Computer Science, Full-time]
 
-### About me
-- 🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
-- 🌱 I’m currently learning more about CrossPlane and the Terraform K8 provider.
+### Professional Summary
+DevOps Engineer and developer advocate with hands-on SRE experience creating high-quality individual re-usable and dry code contributions, specifically IaC and CICD, for digital innovation, software engineering, and application development teams.
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Professional Summary
-DevOps Engineer and developer advocate with hands-on SRE experience creating high-quality individual re-usable and dry code contributions, specifically IaC and CICD, for digital innovation, software engineering, and application development teams.
+
 

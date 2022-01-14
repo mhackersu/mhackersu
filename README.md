@@ -22,8 +22,8 @@
 - University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Business Foundations, Full-time]
 - Collin County Community College (1998.08 ~ 1999.12) [A.S. Computer Science, Full-time]
 
-🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
-🌱 I’m currently learning more about CrossPlane and the Terraform K8 provider.
+- 🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
+- 🌱 I’m currently learning more about CrossPlane and the Terraform K8 provider.
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

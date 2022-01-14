@@ -4,17 +4,16 @@
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
 ### Work Experience
-
-    DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
-    DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
-    Software Engineer - PHDV (2019.06 ~ 2020.01) - [Full-time, Contract]
-    Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]
-    Front-End Developer - Mangstor (2018.01 ~ 2018.06) - [Full-time, Startup]
-    Front-End Developer - CabForward (2016.11 ~ 2017.10) - [Contract, Agency Work]
-    UX Consultant - TEAMS by ProLogic (2016.01 ~ 2016.06) - [Contract]
-    Front-End Developer - Impelos (2015.01 ~ 2015.12) - [Contract]
-    UX Consultant - ProPath Labs (2014.01 ~ 2014.12) - [Contract]
-    Sys Admin - Texas Health Resources (2005.08 ~ 2012.06) - [Full-time]
+DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
+DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
+Software Engineer - PHDV (2019.06 ~ 2020.01) - [Full-time, Contract]
+Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]
+Front-End Developer - Mangstor (2018.01 ~ 2018.06) - [Full-time, Startup]
+Front-End Developer - CabForward (2016.11 ~ 2017.10) - [Contract, Agency Work]
+UX Consultant - TEAMS by ProLogic (2016.01 ~ 2016.06) - [Contract]
+Front-End Developer - Impelos (2015.01 ~ 2015.12) - [Contract]
+UX Consultant - ProPath Labs (2014.01 ~ 2014.12) - [Contract]
+Sys Admin - Texas Health Resources (2005.08 ~ 2012.06) - [Full-time]
     
 ### Education
 

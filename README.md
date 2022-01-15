@@ -13,7 +13,7 @@
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
-- Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time, Contract]
+- Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time]
 - Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]
 - Front-End Developer - NVMeOF Stealth (2018.01 ~ 2018.06) - [Full-time, Startup]
 - Front-End Developer - CabForward (2016.11 ~ 2017.10) - [Contract, Agency Work]

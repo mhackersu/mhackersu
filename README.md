@@ -29,7 +29,7 @@
 - Collin County Community College (1998.08 ~ 2000.05) [A.S. Computer Science, Full-time]
 
 ### Professional Summary
-DevEx Engineer utilizing various methodologies such as SRE, SDLC, DevOps, GitOps, Toyota Kata, Six Sigma, and Agile to meet the rapidly evolving needs of software development teams in digitally innovative spaces.
+DevEx Engineer utilizing various methodologies such as SRE, SDLC, DevOps, GitOps, Toyota Kata, Six Sigma, and Agile to meet the rapidly evolving needs of innovative software engineering and development teams.
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

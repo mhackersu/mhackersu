@@ -6,7 +6,7 @@
 
 ### About me
 - 🔭 Crafting "learn-to-code" courses at codealongstudio.com
-- 🧮 Publishing blog posts and tutorials related to software development at mikehacker.dev
+- 🧮 Publishing software development blog posts and tutorials at mikehacker.dev
 - 🚀 CTO for stealth-mode startup allrise.io
 - 🌱 Learning about de-centralized software 
 

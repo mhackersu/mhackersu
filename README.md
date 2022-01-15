@@ -2,10 +2,11 @@
 
     E-mail : mikehacker.dev@gmail.com
     Linked-in : https://www.linkedin.com/in/mike-hacker
+    Website : https://mikehacker.dev
 
 ### About me
 - 🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
-- 🌱 I’m currently learning more about CrossPlane and the Terraform K8 provider.
+- 🌱 I’m currently teaching myself to orchestrate CrossPlane via the Terraform K8 provider.
 
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]

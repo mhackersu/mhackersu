@@ -8,7 +8,8 @@
 - 🔭 Crafting "learn-to-code" courses at codealongstudio.com
 - 🧮 Publishing software development blog posts and tutorials at mikehacker.dev
 - 🚀 CTO for stealth-mode startup allrise.io
-- 🌱 Learning about de-centralized digital ledgers and dapps.
+- 🌱 Learning all about decentralized ledgers and dapps.
+- 🌍 Programming for good, investing in a bright future.
 
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]

@@ -8,7 +8,7 @@
 - 🔭 Crafting "learn-to-code" courses at codealongstudio.com
 - 🧮 Publishing software development blog posts and tutorials at mikehacker.dev
 - 🚀 CTO for stealth-mode startup allrise.io
-- 🌱 Learning about de-centralized software 
+- 🌱 Learning about Hyperledger as it pertains to modular software architecture.
 
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]

@@ -5,8 +5,10 @@
     Website : https://mikehacker.dev
 
 ### About me
-- 🔭 I’m currently working on building consumable Terraform modules for application and software development teams.
-- 🌱 I’m currently teaching myself to orchestrate CrossPlane via the Terraform K8 provider.
+- 🔭 Crafting "learn-to-code" courses at codealongstudio.com
+- 🧮 Publishing blog posts and tutorials related to software development at mikehacker.dev
+- 🚀 CTO for stealth-mode startup allrise.io
+- 🌱 Learning about de-centralized software 
 
 ### Work Experience
 - DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
@@ -27,7 +29,7 @@
 - Collin County Community College (1998.08 ~ 2000.05) [A.S. Computer Science, Full-time]
 
 ### Professional Summary
-DevEx Engineer providing high-quality "DevOps" and SRE experiences, code contributions, and agile thinking, to meet the self-service infrastructure needs of software engineering and application development teams.
+DevEx Engineering utilizing various methodologies such as SRE, SDLC, DevOps, GitOps, Toyota Kata, Six Sigma, and Agile to meet the rapidly evolving needs in the digital and engineering innovation spaces.
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

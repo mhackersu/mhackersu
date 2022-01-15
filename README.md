@@ -26,7 +26,7 @@
 - Collin County Community College (1998.08 ~ 1999.12) [A.S. Computer Science, Full-time]
 
 ### Professional Summary
-DevOps Engineer and developer advocate with hands-on SRE experience creating high-quality individual re-usable and dry code contributions, specifically IaC and CICD, for digital innovation, software engineering, and application development teams.
+DevOps Engineer and developer advocate with hands-on SRE experience creating high-quality, re-usable, and dry code contributions, specifically IaC and CICD, for digital innovation, software engineering, and application development teams.
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
 - Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time, Contract]
 - Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]
-- Front-End Developer - NVMEoF Stealth (2018.01 ~ 2018.06) - [Full-time, Startup]
+- Front-End Developer - NVMeOF Stealth (2018.01 ~ 2018.06) - [Full-time, Startup]
 - Front-End Developer - CabForward (2016.11 ~ 2017.10) - [Contract, Agency Work]
 - UX Consultant - TEAMS by ProLogic (2016.01 ~ 2016.06) - [Contract]
 - Front-End Developer - Impelos (2015.01 ~ 2015.12) - [Contract]

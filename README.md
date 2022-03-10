@@ -25,10 +25,10 @@
 - Sys Admin - Texas Health Resources (2005.08 ~ 2012.06) - [Full-time]
     
 ### Education
-- Texas State University (2018.08 ~ 2025.05) [M.S. in Computer Science, Part-time] 
-- General Assembly (2015.04 ~ 2015.08) [Web Development Immersive, Full-time]
-- University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Business Foundations, Full-time]
-- Collin County Community College (1998.08 ~ 2000.05) [A.S. Computer Science, Full-time]
+- Texas State University (2018.08 ~ 2025.05) [M.S. in Computer Science (CS), Part-time] 
+- General Assembly (2015.04 ~ 2015.08) [Web Development Immersive (WDI), Full-time]
+- University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Management Information Systems (MIS), Full-time]
+- Collin County Community College (1998.08 ~ 2000.05) [A.S. Computer Science (CS), Full-time]
 
 ### Professional Summary
 DevEx Engineer utilizing various methodologies such as SRE, SDLC, DevOps, GitOps, Toyota Kata, Six Sigma, and Agile to meet the rapidly evolving needs of innovative software engineering and development teams.

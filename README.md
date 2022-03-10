@@ -12,7 +12,8 @@
 - 🌍 Programming for good, investing in a bright future.
 
 ### Work Experience
-- DevOps Engineer - FIMC (2021.01 ~ present) - [Full-time]
+- Sr SRE - Censys.io (2022.03 ~ Present) - [Full-time]
+- DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
 - Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time]
 - Front-End Developer - keepUX (2018.06 ~ 2019.06) - [Contract]

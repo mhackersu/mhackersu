@@ -1,8 +1,6 @@
 ## Mike Hacker - DevEx Engineer
 
-    E-mail : mikehacker.dev@gmail.com
     Linked-in : https://www.linkedin.com/in/mike-hacker
-    Website : https://mikehacker.dev
 
 ### About me
 - 🧮 Leading community resource bananaforscale.io

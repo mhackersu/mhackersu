@@ -5,14 +5,15 @@
     Website : https://mikehacker.dev
 
 ### About me
+- 🧮 Leading community resource bananaforscale.io
 - 🔭 Crafting "learn-to-code" courses at codealongstudio.com
-- 🧮 Publishing software development blog posts and tutorials at mikehacker.dev
 - 🚀 CTO for stealth-mode startup allrise.io
 - 🌱 Learning all about decentralized ledgers and dapps.
 - 🌍 Programming for good, investing in a bright future.
 
 ### Work Experience
-- Sr SRE - Censys.io (2022.03 ~ Present) - [Full-time]
+- #opentowork
+- Sr SRE - Censys.io (2022.03 ~ 2022.07) - [Full-time]
 - DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
 - Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time]

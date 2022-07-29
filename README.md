@@ -1,4 +1,4 @@
-## Mike Hacker - DevEx Engineer
+## Mike Hacker - Sr. SRE, Director of Production Readiness, Technical Content Creator, and DevX Advocate 🧡
 
     Linked-in : https://www.linkedin.com/in/mike-hacker
 

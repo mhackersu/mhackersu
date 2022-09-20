@@ -1,5 +1,5 @@
 ## Mike Hacker
-### Sr. SRE, Director of Production Readiness, Technical Content Creator, and DevX Advocate 🧡
+### SRE, DevOps Engineer, Technical Content Creator, DevX Advocate, DEI Champion 🧡
 
     Linked-in : https://www.linkedin.com/in/mike-hacker
 

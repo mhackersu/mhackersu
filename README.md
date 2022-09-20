@@ -5,8 +5,8 @@
 
 ### About me
 - 🧮 Developing a community resource for CS education for foster youth at [Foster CS](https://fostercs.github.io/)
-- 🔭 Crafting "learn-to-code" courses at codealongstudio.com
-- 🚀 CTO for stealth-mode startup allrise.io
+- 🔭 Crafting "learn-to-code" courses at [Code Along Studio](https://codealongstudio.com)
+- 🚀 CTO for stealth-mode startup [All Rise](https://allrise.io)
 - 🌱 Learning all about decentralized ledgers and dapps.
 - 🌍 Programming for good, investing in a bright future.
 

@@ -4,7 +4,7 @@
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
 ### About me
-- 🧮 Leading community resource bananaforscale.io
+- 🧮 Developing a community resource for CS education for foster youth at https://fostercs.github.io/
 - 🔭 Crafting "learn-to-code" courses at codealongstudio.com
 - 🚀 CTO for stealth-mode startup allrise.io
 - 🌱 Learning all about decentralized ledgers and dapps.
@@ -12,7 +12,7 @@
 
 ### Work Experience
 - #opentowork
-- Sr SRE - Censys.io (2022.03 ~ 2022.07) - [Full-time]
+- Sr SRE - Censys.io (2022.03 ~ 2022.08) - [Full-time]
 - DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]
 - Software Engineer - Pizza Hut Digital Ventures (2019.06 ~ 2020.01) - [Full-time]

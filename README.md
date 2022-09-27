@@ -24,8 +24,8 @@
     
 ### Education
 - General Assembly (2015.03 ~ 2015.08) [Web Development Immersive (WDI), Full-time]
-- University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Management Information Systems (MIS), Full-time]
-- Collin County Community College (1998.08 ~ 2000.05) [A.S. Computer Science (CS), Full-time]
+- University of North Texas (2011.08 ~ 2014.08) [B.A.A.S. Management Information Systems (MIS), Full-time]
+- Collin County Community College (1997.08 ~ 2000.05) [A.S. Computer Science (CS), Full-time]
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

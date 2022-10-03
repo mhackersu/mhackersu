@@ -1,10 +1,11 @@
 ## Mike Hacker
 ### SRE, DevOps Engineer, Technical Content Creator, DevX Advocate, DEI Champion 🧡
 
+    Substack: https://bananaforscale.substack.com/
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
 ### About me
-- 🧮 Developing a community resource for CS education for foster youth at [Foster CS](https://fostercs.github.io/)
+- 🧮 Creating CS resources for foster youth at [Foster CS](https://fostercs.github.io/)
 - 🌱 Learning all about decentralized ledgers and dapps.
 - 🌍 Programming for good, investing in a bright future.
 

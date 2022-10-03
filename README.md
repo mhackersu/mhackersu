@@ -1,4 +1,4 @@
-
+<img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 
 ## Mike Hacker
 ### SRE, DevOps Engineer, Technical Content Creator, DevX Advocate, DEI Champion 🧡

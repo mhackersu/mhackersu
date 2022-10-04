@@ -6,7 +6,7 @@
     Linked-in : https://www.linkedin.com/in/mike-hacker
 
 ### About me
-- 🥞 [SubStack](https://bananaforscale.substack.com/) contributor, writing about Cloud Agnosticism, dApps, & Decentralized SQL
+- 🥞 [SubStack](https://bananaforscale.substack.com/) contributor, writing technical articles around decentralized architecutre.
 - 🧮 Creating CS resources for foster youth at [Foster CS](https://fostercs.github.io/)
 
 ### Work Experience

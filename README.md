@@ -10,7 +10,7 @@
 - 🧮 Creating CS resources for foster youth at [Foster CS](https://fostercs.github.io/)
 
 ### Work Experience
-- #opentowork
+- Sr Software Engineer - WP Engine (2022.11 - Present) - [Full-time]
 - Sr SRE - Censys.io (2022.03 ~ 2022.08) - [Full-time]
 - DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]

@@ -4,6 +4,7 @@
 ### SRE, DevOps Engineer, Technical Content Creator, DevX Advocate, DEI Champion 🧡
 
     Linked-in : https://www.linkedin.com/in/mike-hacker
+    Stack Overflow: https://stackoverflow.com/users/4612518/bananaforscale
 
 ### About me
 - 🥞 [SubStack](https://bananaforscale.substack.com/) contributor, writing technical articles around decentralized architecutre.

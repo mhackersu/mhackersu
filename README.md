@@ -7,7 +7,7 @@
     Stack Overflow: https://stackoverflow.com/users/4612518/bananaforscale
 
 ### About me
-- 🥞 [SubStack](https://bananaforscale.substack.com/) contributor, writing technical articles around decentralized architecutre.
+- 🥞 [SubStack](https://bananaforscale.substack.com/) contributor.
 - 🧮 Creating CS resources for foster youth at [Foster CS](https://fostercs.github.io/)
 
 ### Work Experience

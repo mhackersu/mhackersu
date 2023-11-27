@@ -1,7 +1,7 @@
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 
 ## Mike Hacker
-### SRE, DevOps Engineer, Technical Content Creator, DevX Advocate, DEI Champion 🧡
+### SRE, DevX Advocate, DEI Champion 🧡
 
     Linked-in : https://www.linkedin.com/in/mike-hacker
     Stack Overflow: https://stackoverflow.com/users/4612518/bananaforscale

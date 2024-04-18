@@ -1,17 +1,13 @@
-<img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
-
 ## Mike Hacker
-### SRE, DevX Advocate, DEI Champion 🧡 🩵
-
-    Linked-in : https://www.linkedin.com/in/mike-hacker
-    Stack Overflow: https://stackoverflow.com/users/4612518/bananaforscale
+### 🧡 🩵 DevOps Leader, DevX Advocate, DEI Champion 🧡 🩵
 
 ### About me
-- 🥞 [SubStack](https://bananaforscale.substack.com/) contributor.
-- 🧮 Creating CS resources for foster youth at [Foster CS](https://fostercs.github.io/)
+I love programming!
+<img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
+- Banana For Scale Website - https://bfsio.net
 
 ### Work Experience
-- Sr Software Engineer - WP Engine (2022.11 - Present) - [Full-time]
+- Sr Software Engineer - WP Engine (2022.11 - 2024.04) - [Full-time]
 - Sr SRE - Censys.io (2022.03 ~ 2022.08) - [Full-time]
 - DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
 - DevOps Engineer - Tyler Tech (2020.04 ~ 2020.12) - [Full-time]

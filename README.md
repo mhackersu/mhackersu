@@ -3,6 +3,7 @@
 
 ### About me
 I love programming!
+
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 - Banana For Scale Website - https://bfsio.net
 

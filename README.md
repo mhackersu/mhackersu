@@ -2,10 +2,8 @@
 ### 🧡 🩵 DevOps Leader, DevX Advocate, DEI Champion 🧡 🩵
 
 ### About me
-I love programming!
-
+[Banana For Scale Portfolio Website](https://bfsio.net)
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
-- Banana For Scale Website - https://bfsio.net
 
 ### Work Experience
 - Sr Software Engineer - WP Engine (2022.11 - 2024.04) - [Full-time]

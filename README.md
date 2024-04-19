@@ -1,9 +1,13 @@
 ## Mike Hacker
-### 🧡 🩵 DevOps Leader, DevX Advocate, DEI Champion 🧡 🩵
 
-### About me
-[Banana For Scale Portfolio Website](https://bfsio.net)
-<img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
+- 🔭 I’m currently working on writing idempotent and idomatic code in Golang
+- 🌱 I’m currently learning about formal OOP with code in Ruby
+- 👯 I’m looking to collaborate on developing CS curriculum in Golang
+- 🤔 I’m looking for help with developing CS curriculum
+- 💬 Ask me about e-commerce, wordpress, software development
+- 📫 How to reach me: bfsio.net
+- 😄 Pronouns: Michael
+- ⚡ Fun fact: Amateur Radio Operator @ KI5IBD
 
 ### Work Experience
 - Sr Software Engineer - WP Engine (2022.11 - 2024.04) - [Full-time]
@@ -37,6 +41,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🧡 🩵 DevOps Leader, DevX Advocate, DEI Champion 🧡 🩵
+
+### About me
+[Banana For Scale Portfolio Website](https://bfsio.net)
+[Mvskokvlke Blog](https://mvskokvlke.com/)
+
+#### Code
+
+✅ Writing idempotent and idomatic code in Golang
+✅ Rapidly-producing Python code to remediate SEVs in production
+✅ Learning about formal OOP with production code in Ruby
+✅ Learning about programming in JS
+
+#### Personal
+
+✅ Experimenting with CloudFlare Workers and Pages
+✅ Using Next.js and Vercel in personal projects
+
+#### I think these things are cool
+
+✅ Bit Baloon
+✅ Function Apps
+
+<img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 -->
 
 

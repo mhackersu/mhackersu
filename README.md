@@ -21,12 +21,11 @@
 - UX Consultant - TEAMS by ProLogic (2016.01 ~ 2016.06) - [Contract]
 - Front-End Developer - Impelos (2015.01 ~ 2015.12) - [Contract]
 - UX Consultant - ProPath Labs (2014.01 ~ 2014.12) - [Contract]
-- Sys Admin - Texas Health Resources (2005.08 ~ 2012.06) - [Full-time]
     
 ### Education
 - General Assembly (2015.03 ~ 2015.08) [Web Development Immersive (WDI), Full-time]
-- University of North Texas (2011.08 ~ 2014.08) [B.A.A.S. Management Information Systems (MIS), Full-time]
-- Collin County Community College (1997.08 ~ 2000.05) [A.S. Business Information Systems (BIS), Full-time]
+- University of North Texas (2012.08 ~ 2014.08) [B.A.A.S. Computer and Information Systems (CIS), Full-time]
+- Collin County Community College (1998.08 ~ 2000.05) [A.S. Business Administration and Management, Full-time]
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

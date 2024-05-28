@@ -1,15 +1,15 @@
 ## Mike Hacker
 
-- 🔭 I’m currently working on writing idempotent and idomatic code in Golang
-- 🌱 I’m currently learning about formal OOP with code in Ruby
+- 🔭 I have professionally produced and shipped fully idempotent and idomatic code in Golang an Ruby
+- 🌱 I am currently developing zero-cost computer science curriculum for foster-adopt k-12 audiences
 - 👯 I’m looking to collaborate on developing CS curriculum in Golang
-- 🤔 I’m looking for help with developing CS curriculum
-- 💬 Ask me about e-commerce, wordpress, software development
-- 📫 How to reach me: bfsio.net
-- 😄 Pronouns: Michael
+- 💬 Ask me about software development
+- 📫 How to reach me: https://www.mvskokvlke.com/
+- 😄 Pronouns: Michael/Hacker
 - ⚡ Fun fact: Amateur Radio Operator @ KI5IBD
 
 ### Work Experience
+- Open to work - Present
 - Sr Software Engineer - WP Engine (2022.11 - 2024.04) - [Full-time]
 - Sr SRE - Censys.io (2022.03 ~ 2022.08) - [Full-time]
 - DevOps Engineer - FIMC (2021.01 ~ 2022.03) - [Full-time]
@@ -26,7 +26,7 @@
 ### Education
 - General Assembly (2015.03 ~ 2015.08) [Web Development Immersive (WDI), Full-time]
 - University of North Texas (2011.08 ~ 2014.08) [B.A.A.S. Management Information Systems (MIS), Full-time]
-- Collin County Community College (1997.08 ~ 2000.05) [A.S. Computer Science (CS), Full-time]
+- Collin County Community College (1997.08 ~ 2000.05) [A.S. Business Information Systems (BIS), Full-time]
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

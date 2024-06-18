@@ -1,8 +1,8 @@
 ## Mike Hacker
 
-- 🔭 I have professionally produced and shipped fully idempotent and idomatic code in Golang an Ruby
-- 🌱 I am currently developing zero-cost computer science curriculum for foster-adopt k-12 audiences
-- 👯 I’m looking to collaborate on developing CS curriculum in Golang
+- 🔭 I have produced fully idempotent and idomatic code in Golang an Ruby for employers. For JS front-end and middleware I am using Waku.
+- 🌱 Currently developing zero-cost, open-source, computer science curriculum, centered around uncompromising web3 communication at scale.
+- 👯 Seeking GoLang & JS devs interested in collaboration for [open-source CS curriculum](https://fostercs.github.io).
 - 💬 Blogging about improving indigenous outcomes in cyberspace at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - 😄 Pronouns: Michael/Hacker
 - ⚡ Fun fact: Amateur Radio Operator @ KI5IBD

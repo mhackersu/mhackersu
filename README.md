@@ -3,7 +3,7 @@
 - 🔭 I have professionally produced and shipped fully idempotent and idomatic code in Golang an Ruby
 - 🌱 I am currently developing zero-cost computer science curriculum for foster-adopt k-12 audiences
 - 👯 I’m looking to collaborate on developing CS curriculum in Golang
-- 💬 Blogging about improving indigenous outcomes in cyberspace at mvskokvlke dot com
+- 💬 Blogging about improving indigenous outcomes in cyberspace at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - 😄 Pronouns: Michael/Hacker
 - ⚡ Fun fact: Amateur Radio Operator @ KI5IBD
 

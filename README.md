@@ -1,6 +1,6 @@
 ## Mike Hacker
 
-- 🔭 I have shipped fully idempotent and idomatic code in Golang and Ruby for products that handle 230M+ customer nodes.
+- 🔭 I have shipped fully idempotent and idomatic code in Golang and Ruby in production environments that handle 230M+ simultaneous customer nodes.
 - 💾 Most other code I have written is mainly bash and/or JS front-end and middleware, or automation code in Py.
 - ➗ I utilize the Saxxon Math approach to learning in my studies.
 - 🌱 Currently developing zero-cost, open-source, curriculum, centered around computer science fundamentals and decentralized data architecture.

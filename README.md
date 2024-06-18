@@ -1,7 +1,9 @@
 ## Mike Hacker
 
-- 🔭 I have produced fully idempotent and idomatic code in Golang an Ruby for employers. For JS front-end and middleware I am using Waku.
-- 🌱 Currently developing zero-cost, open-source, computer science curriculum, centered around uncompromising web3 communication at scale.
+- 🔭 I have shipped fully idempotent and idomatic code in Golang and Ruby for products that handle 230M+ customer nodes.
+- 💾 Most other code I have written is mainly bash and/or JS front-end and middleware, or automation code in Py.
+- ➗ I utilize the Saxxon Math approach to learning in my studies.
+- 🌱 Currently developing zero-cost, open-source, curriculum, centered around computer science fundamentals and decentralized data architecture.
 - 👯 Seeking GoLang & JS devs interested in collaboration for [open-source CS curriculum](https://fostercs.github.io).
 - 💬 Blogging about improving indigenous outcomes in cyberspace at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - 😄 Pronouns: Michael/Hacker

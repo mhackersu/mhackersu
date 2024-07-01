@@ -1,13 +1,12 @@
 ## Mike Hacker
 
-- 🔭 I have shipped fully idempotent and idomatic code in Golang and Ruby in production environments that handle 230M+ simultaneous customer nodes.
-- 💾 I have written JS in the front-end and in the middleware, and some cheap automation code in Py.
+Experienced Software Engineer with expertise in Python automation, Go, and Ruby, delivering robust solutions for outage remediation and production software, while enhancing system integrity and reliability through innovative DevOps and SRE practices across major cloud platforms.
+
 - ➗ I utilize the Saxxon Math approach to learning in my studies.
-- 🌱 Currently developing zero-cost, open-source, curriculum, centered around computer science fundamentals and decentralized data architecture.
-- 👯 Seeking GoLang & JS devs interested in collaboration for [open-source CS curriculum](https://fostercs.github.io).
+- 🌱 Compiling open-source, curriculum, centered around computer science fundamentals and decentralized data architecture.
 - 💬 Blogging about improving indigenous outcomes in cyberspace at [mvskokvlke](https://www.mvskokvlke.com) dot com
-- 😄 Pronouns: Michael/Hacker
-- ⚡ Fun fact: Amateur Radio Operator @ KI5IBD
+- 😄 Pronouns: Hacker/Michael
+- ⚡ Hobby: Amateur Radio @ KI5IBD
 
 ### Work Experience
 - Open to work - Present

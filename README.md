@@ -2,10 +2,14 @@
 
 Experienced Software Engineer with expertise in Python automation, Go, and Ruby, delivering robust solutions for outage remediation and production software, while enhancing system integrity and reliability through innovative DevOps and SRE practices across major cloud platforms.
 
+### Skills
+- AdonisJS, Vite, FlutterFlow
+- Golang, Ruby, JS, Python, C
+- 
+
 - ➗ I utilize the Saxxon Math approach to learning in my studies.
-- 🌱 Compiling open-source, curriculum, centered around computer science fundamentals and decentralized data architecture.
+- 🌱 Creating compelling, open-source curriculum, centered around computer science fundamentals and decentralized data architecture.
 - 💬 Blogging about improving indigenous outcomes in cyberspace at [mvskokvlke](https://www.mvskokvlke.com) dot com
-- 😄 Pronouns: Hacker/Michael
 - ⚡ Hobby: Amateur Radio @ KI5IBD
 
 ### Work Experience

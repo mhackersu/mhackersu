@@ -3,16 +3,15 @@
 Experienced Software Engineer with expertise in Python automation, Go, and Ruby, delivering robust solutions for outage remediation and production software, while enhancing system integrity and reliability through innovative DevOps and SRE practices across major cloud platforms.
 
 ### Skills
-- 👨‍💻 AdonisJS, Vite, Flutter, Parse
-  - 💾 [Go](https://github.com/mhackersu/mastering-go)
-  - [Ruby]()https://github.com/mhackersu/mastering-ruby
-  - [JS](https://github.com/fostercs/JS101)
-  - [Py](https://github.com/fostercs/PY101)
-  - C
+- 💾 [Go](https://github.com/mhackersu/mastering-go)
+- [Ruby]()https://github.com/mhackersu/mastering-ruby
+- [JS](https://github.com/fostercs/JS101)
+- [Py](https://github.com/fostercs/PY101)
 - 🌱 Creating compelling Web3 [curriculum](https://fostercs.github.io) based on CS fundamentals.
 - 🔭 Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - ✝️ Owner & Contribuitor at [The Digital Catechism](https://thedigitalcatechism.com)
 - 📡 Amateur Radio Operator
+- 👨‍💻 AdonisJS, Vite, Flutter, Parse
 
 ### Work Experience
 - Open to work - Present

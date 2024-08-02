@@ -7,6 +7,7 @@ Experienced Software Engineer with expertise in Python automation, Go, and Ruby,
 - 💾 Golang, Ruby, JS, Python, C
 - 🌱 Creating compelling Web3 curriculum based on CS fundamentals.
 - 🔭 Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com
+- ✝️ Owner & Contribuitor at [The Digital Catechism](https://thedigitalcatechism.com)
 - 📡 Amateur Radio
 
 ### Work Experience

@@ -3,7 +3,7 @@
 Experienced Software Engineer with expertise in Python automation, Go, and Ruby, delivering robust solutions for outage remediation and production software, while enhancing system integrity and reliability through innovative DevOps and SRE practices across major cloud platforms.
 
 ### Skills
-- 👨‍💻 AdonisJS, Vite, FlutterFlow
+- 👨‍💻 AdonisJS, Vite, Flutter, Parse
 - 💾 Golang, Ruby, JS, Python, C
 - 🌱 Creating compelling Web3 curriculum based on CS fundamentals.
 - 🔭 Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com

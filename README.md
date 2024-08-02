@@ -4,7 +4,7 @@ Experienced Software Engineer with expertise in Python automation, Go, and Ruby,
 
 ### Skills
 - 💾 [Go](https://github.com/mhackersu/mastering-go)
-- [Ruby]()https://github.com/mhackersu/mastering-ruby
+- [Ruby](https://github.com/mhackersu/mastering-ruby)
 - [JS](https://github.com/fostercs/JS101)
 - [Py](https://github.com/fostercs/PY101)
 - 🌱 Creating compelling Web3 [curriculum](https://fostercs.github.io) based on CS fundamentals.

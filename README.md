@@ -4,7 +4,7 @@ Experienced Software Engineer with expertise in Python automation, Go, and Ruby,
 
 ### Skills
 - 👨‍💻 AdonisJS, Vite, Flutter, Parse
-- 💾 Golang, Ruby, JS, Python, C
+- 💾 [Go](https://github.com/mhackersu/mastering-go), [Ruby]()https://github.com/mhackersu/mastering-ruby, [JS](https://github.com/fostercs/JS101), [Py](https://github.com/fostercs/PY101), C
 - 🌱 Creating compelling Web3 [curriculum](https://fostercs.github.io) based on CS fundamentals.
 - 🔭 Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - ✝️ Owner & Contribuitor at [The Digital Catechism](https://thedigitalcatechism.com)

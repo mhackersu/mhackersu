@@ -3,6 +3,8 @@
 Experienced Software Engineer with expertise in Python automation, Go, and Ruby, delivering robust solutions for outage remediation and production software, while enhancing system integrity and reliability through innovative DevOps and SRE practices across major cloud platforms.
 
 ### Skills
+- 💾 Photography
+    - [Photo Blog](https://photo-blog-b4gzpejuj-bfsio-projects.vercel.app/grid)
 - 💾 Programming
     - [Go](https://github.com/mhackersu/mastering-go)
     - [Ruby](https://github.com/mhackersu/mastering-ruby)

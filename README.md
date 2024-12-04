@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 🧡 🩵 DevOps Leader, DevX Advocate, DEI Champion 🧡 🩵
+-->
 
 ### About me
 [Banana For Scale Portfolio Website](https://bfsio.net)
@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 ✅ [Persistant Storage Serverless Function Apps](https://read.seas.harvard.edu/~kohler/class/cs260r-s19/projects/cs260r-s19-melange.pdf)
 
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
--->
 
 
 

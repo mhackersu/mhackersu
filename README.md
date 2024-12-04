@@ -1,6 +1,6 @@
 ## Mike Hacker
 
-Highly-diversified Software Engineer with production experience in Python automation code, and production code in Go, Ruby, and NodeJS; Experienced with utilizing the SRE toolkit to enhance system resiliancy.
+Highly-diversified Software Engineer with production experience in Python automation code, and production code in Go, Ruby, and NodeJS; Experienced with utilizing the [SRE](https://sre.google/sre-book/table-of-contents/) toolkit to enhance system resiliancy.
 
 ### Work Experience
 - Sr SRE - WP Engine (2022 - 2024) - [Full-time]

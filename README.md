@@ -50,6 +50,7 @@ Highly-diversified Software Engineer with production experience in Python automa
 
 - A [brief history](https://www.netlify.com/blog/2018/08/14/announcing-netlify-drop-the-simplicity-of-bitballoon-with-the-added-power-of-netlify/) of Bit Balloon
 - [Persistant Storage Serverless Function Apps](https://read.seas.harvard.edu/~kohler/class/cs260r-s19/projects/cs260r-s19-melange.pdf)
+- [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 

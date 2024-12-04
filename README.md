@@ -12,7 +12,7 @@ Highly-diversified Software Engineer with production experience in Python automa
         - [JS](https://github.com/fostercs/JS101)
         - [Py](https://github.com/fostercs/PY101)
 - Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com
-- ✝️ Owner & Contribuitor at [The Digital Catechism](https://thedigitalcatechism.com)
+- Principal Contribuitor for [The Digital Catechism](https://thedigitalcatechism.com) ✝️
 - Amateur Radio Operator (KI5IBD)
 
 ### Work Experience

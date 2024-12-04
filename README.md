@@ -10,10 +10,10 @@ Highly-diversified Software Engineer with production experience in Python automa
 - SRE - FIMC (2020 - 2022) - [Full-time]
 - SRE - Tyler Tech (2020) - [Full-time]
 - DevOps Engineer - Pizza Hut Digital Ventures (2019) - [Contract]
-- Front-End Developer - NVMe-oF™ Stealth (2018) - [Contract]
+- Back-End Developer - NVMe-oF™ Stealth (2018) - [Contract]
 - Front-End Developer - CabForward (2017) - [Contract]
 - UX Consultant - TEAMS by ProLogic (2016) - [Contract]
-- Front-End Developer - Impelos (2015) - [Contract]
+- Full-Stack Developer - Impelos (2015) - [Contract]
     
 ### Education
 - General Assembly (2015) [Web Development Immersive (WDI), Full-time]

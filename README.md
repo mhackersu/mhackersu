@@ -1,6 +1,6 @@
 ## Mike Hacker
 
-Highly-diversified software engineer with experience creating Python automation code, and production code in Go, Ruby, and NodeJS; Experienced with utilizing the [SRE](https://sre.google/sre-book/table-of-contents/) toolkit to enhance system resiliancy.
+Highly-diversified software engineer with experience creating Python automation code, and production code in Go, Ruby, and NodeJS; Experienced with utilizing the [SRE](https://sre.google/sre-book/table-of-contents/) toolkit to enhance system resiliency.
 
 - [Technical Blog](https://mvskokvlke.com/)
 

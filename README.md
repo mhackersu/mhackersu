@@ -5,8 +5,8 @@ Highly-diversified software engineer with experience creating Python automation 
 - [Technical Blog](https://mvskokvlke.com/)
 
 ### Full-time SRE Experience
-- Sr SRE - WP Engine (2022-24)
-- SRE - FIMC (2020-22)
+- Lead SRE - WP Engine (2022-24)
+- Sr. SRE - FIMC (2020-22)
 - SRE - Tyler Tech (2019-20)
 
 ### Contract Developer Experience

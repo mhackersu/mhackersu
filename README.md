@@ -17,9 +17,9 @@ Highly-diversified software engineer with experience creating Python automation 
 - Full-Stack Developer - Impelos (2014)
     
 ### Education
-- General Assembly (2015) [Web Development Immersive (WDI), Full-time]
-- University of North Texas (2012-14) [B.A.A.S. Business Information Systems (BIS)]
-- Collin County Community College (1998-2000) [A.S. Business Administration and Management]
+- General Assembly (2015) [WDI - Web Development Immersive (WDI]
+- University of North Texas (2012-14) [BAAS - Business Information Systems (BIS)]
+- Collin County Community College (1998-2000) [AS - Management Information Systems (MIS)]
 
 ### Skills & Hobbies
 - Photographer

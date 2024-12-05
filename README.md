@@ -37,11 +37,12 @@ Highly-diversified software engineer with experience creating Python automation 
 #### Philosophy
 
 - Writing idempotent and idomatic code
-- Rapidly-producing automation code for rapid remediation
-- OOP & Design Pattern Mastery
+- Rapidly producing remediation automation code
+- OOP & Design Patterns
+- 99 Bottles of Ruby
 - Programming is about learning
 
-#### Personal
+#### Personal Interests
 
 - Experimenting with CloudFlare Workers and Pages
 - Using Next.js and Vercel in personal projects

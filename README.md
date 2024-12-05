@@ -4,21 +4,22 @@ Highly-diversified software engineer with experience creating Python automation 
 
 - [Technical Blog](https://mvskokvlke.com/)
 
-### Work Experience
-- Sr SRE - WP Engine (2022 - 2024) - [Full-time]
-- Sr SRE - Censys.io (2022) - [Full-time]
-- SRE - FIMC (2020 - 2022) - [Full-time]
-- SRE - Tyler Tech (2020) - [Full-time]
-- DevOps Engineer - Pizza Hut Digital Ventures (2019) - [Contract]
-- Back-End Developer - NVMe-oF™ Stealth (2018) - [Contract]
-- Front-End Developer - CabForward (2017) - [Contract]
-- UX Consultant - TEAMS by ProLogic (2016) - [Contract]
-- Full-Stack Developer - Impelos (2015) - [Contract]
+### Full-time SRE Experience
+- Sr SRE - WP Engine (2022-24)
+- SRE - FIMC (2020-22)
+- SRE - Tyler Tech (2019-20)
+
+### Contract Developer Experience
+- Software Engineer - Pizza Hut Digital Ventures (2018)
+- Front-End Developer - NVMe-oF™ Stealth (2017)
+- Front-End Developer - CabForward (2016)
+- UX Consultant - TEAMS by ProLogic (2015)
+- Full-Stack Developer - Impelos (2014)
     
 ### Education
 - General Assembly (2015) [Web Development Immersive (WDI), Full-time]
-- University of North Texas (2012 - 2014) [B.A.A.S. Business Information Systems (BIS)]
-- Collin County Community College (1998 - 2000) [A.S. Business Administration and Management]
+- University of North Texas (2012-14) [B.A.A.S. Business Information Systems (BIS)]
+- Collin County Community College (1998-2000) [A.S. Business Administration and Management]
 
 ### Skills & Hobbies
 - Photographer

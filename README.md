@@ -41,6 +41,7 @@
 - Use OOP & Design Patterns as a guide
 - Programming is about learning
 - Perfect is the enemy of good
+- Finding flow in refinement
 
 #### Personal Interests
 

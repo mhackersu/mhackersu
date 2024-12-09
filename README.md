@@ -1,6 +1,6 @@
 # Mike Hacker
 
-Highly-diversified **software engineer** with experience creating **automation code in Python**, **component code in NodeJS, Ruby, and Go**, and **web application code in NodeJS and ReactJS**.
+**Edge engineer** with experience creating **automation code in Python**, **component code in NodeJS, Ruby, and Go**, and **web application code in NodeJS and ReactJS**.
 
 - [Technical Blog](https://mvskokvlke.com/)
 ## Experience

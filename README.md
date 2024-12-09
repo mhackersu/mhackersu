@@ -48,6 +48,7 @@
 - Experimenting with CloudFlare Workers and Pages
 - Using Next.js and Vercel in personal projects
 - Building Applications on Rails
+- Smart Contracts
 
 #### Interesting Tidbits
 

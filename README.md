@@ -1,15 +1,16 @@
-## Mike Hacker
+# Mike Hacker
 
-Highly-diversified software engineer with experience creating Python automation code, and production code in Go, Ruby, and NodeJS; Experienced with utilizing the [SRE](https://sre.google/sre-book/table-of-contents/) toolkit to enhance system resiliency.
+Highly-diversified **software engineer** with experience creating **automation code in Python**, **component code in NodeJS, Ruby, and Go**, and **web application code in NodeJS and ReactJS**.
 
 - [Technical Blog](https://mvskokvlke.com/)
+## Experience
 
-### Professional SRE Experience
+### Professional Engineering
 - Lead SRE - WP Engine (2022-24)
 - Sr. SRE - FIMC (2020-22)
 - SRE - Tyler Tech (2019-20)
 
-### Freelance Developer Experience
+### Freelance Engineering
 - Software Engineer - Pizza Hut Digital Ventures (2018)
 - Front-End Developer - NVMe-oF™ Stealth (2017)
 - Front-End Developer - CabForward (2016)

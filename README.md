@@ -4,12 +4,12 @@ Highly-diversified software engineer with experience creating Python automation 
 
 - [Technical Blog](https://mvskokvlke.com/)
 
-### Full-time SRE Experience
+### Professional SRE Experience
 - Lead SRE - WP Engine (2022-24)
 - Sr. SRE - FIMC (2020-22)
 - SRE - Tyler Tech (2019-20)
 
-### Contract Developer Experience
+### Freelance Developer Experience
 - Software Engineer - Pizza Hut Digital Ventures (2018)
 - Front-End Developer - NVMe-oF™ Stealth (2017)
 - Front-End Developer - CabForward (2016)

@@ -5,7 +5,7 @@ Highly-diversified **software engineer** with experience creating **automation c
 - [Technical Blog](https://mvskokvlke.com/)
 ## Experience
 
-### Professional Engineering
+### Edge Engineering
 - Lead SRE - WP Engine (2022-24)
 - Sr. SRE - FIMC (2020-22)
 - SRE - Tyler Tech (2019-20)

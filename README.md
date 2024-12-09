@@ -6,16 +6,16 @@
 ## Experience
 
 ### Edge Engineering
-- Lead SRE - WP Engine (2022-24)
-- Sr. SRE - FIMC (2020-22)
-- SRE - Tyler Tech (2019-20)
+- Lead SRE - WP Engine, Remote (2022-24)
+- Sr. SRE - FIMC, Remote (2020-22)
+- SRE - Tyler Tech, Remote (2019-20)
 
 ### Freelance Engineering
-- Software Engineer - Pizza Hut Digital Ventures (2018)
-- Front-End Developer - NVMe-oF™ Stealth (2017)
-- Front-End Developer - CabForward (2016)
-- UX Consultant - TEAMS by ProLogic (2015)
-- Full-Stack Developer - Impelos (2014)
+- Software Engineer - Pizza Hut Digital Ventures, UK (2018)
+- Front-End Developer - Dell EMC NVMe-oF™ Stealth, Austin (2017)
+- Front-End Developer - Texas Department of Transportation, Austin (2016)
+- UX Consultant - TEAMS K-12 Educational Software by ProLogic, Austin (2015)
+- Full-Stack Developer - Fire & Safety Platform by Impelos, Dallas (2014)
     
 ### Education
 - General Assembly (2015) [WDI - Web Development Immersive (WDI]

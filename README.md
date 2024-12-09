@@ -37,17 +37,16 @@ Highly-diversified **software engineer** with experience creating **automation c
 
 #### Philosophy
 
-- Writing idempotent and idomatic code
-- Rapidly producing remediation automation code
-- OOP & Design Patterns
-- 99 Bottles of Ruby
+- Craft idempotent and idomatic code
+- Use OOP & Design Patterns as a guide
 - Programming is about learning
+- Perfect is the enemy of good
 
 #### Personal Interests
 
 - Experimenting with CloudFlare Workers and Pages
 - Using Next.js and Vercel in personal projects
-- Building Business Applications on Rails
+- Building Applications on Rails
 
 #### Interesting Tidbits
 

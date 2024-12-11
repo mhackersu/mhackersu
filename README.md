@@ -6,7 +6,7 @@
 ## Experience
 
 ### Edge Engineering
-- Lead SRE - WP Engine, Remote (2022-24)
+- Sr. SRE - WP Engine, Remote (2022-24)
 - Sr. SRE - FIMC, Remote (2020-22)
 - SRE - Tyler Tech, Remote (2019-20)
 

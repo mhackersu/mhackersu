@@ -33,7 +33,7 @@
         - [Py](https://github.com/fostercs/PY101)
 - Improving STEM outcomes at [mvskokvlke](https://www.mvskokvlke.com) dot com
 - Principal Contribuitor for [The Digital Catechism](https://thedigitalcatechism.com) ✝️
-- Amateur Radio Operator (KI5IBD)
+- Amateur Radio Operator ([KI5IBD](https://indigobravodelta.blogspot.com))
 
 #### Philosophy
 

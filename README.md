@@ -1,6 +1,6 @@
 # Mike Hacker
 
-**Platform Engineer** with experience creating **automation code in Python**, **component code in NodeJS, Ruby, and Go**, and **web application code in NodeJS and ReactJS**.
+**Platform Engineer** with experience creating **automation code in Python**, **component code in NodeJS, Ruby, and Go**, and **web application code in NodeJS, ReactJS, and Ruby on Rails**.
 
 - [Technical Blog](https://mvskokvlke.com/)
 ## Experience

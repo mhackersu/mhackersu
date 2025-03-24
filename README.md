@@ -1,7 +1,8 @@
 # Mike Hacker
 
 **Full-Stack Engineer** with experience creating **automation code in Python**, **component code in Go**, and **web application code in NodeJS and ReactJS, and Ruby, in Rails**.
-- [Full-Stack CV]https://full-stack-cv.vercel.app/
+- [Full-Stack CV](https://full-stack-cv.vercel.app/)
+- [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
 ## Professional Experience
 

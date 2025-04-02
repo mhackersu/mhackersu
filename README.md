@@ -20,19 +20,27 @@
 - University of North Texas (2010-14) [BAAS - Economics]
 - Collin County Community College (1998-2000) [AS - Finance]
 
+#### Software Engineering Experience
+- CloudFlare
+- EKS, GKE
+- CI, Integration Tests
+- Unit Tests, Feature Requests
+- Go, Ruby, TS
+
+#### Full-Stack Experience
+- Vercel
+- ReactJS
+- Vite
+- Tailwind
+- Clerk
+- GelData
+- TanStack
+
 #### Philosophy
 
-- Craft idempotent and idomatic code
-- Use OOP & Design Patterns as a guide
-- Programming is about learning
-- Perfect is the enemy of good
-- Finding flow in refinement
-
-#### Technologies that I am interested in
-- ReactJS
-- Clerk
-- Tanstack
-- GelData
+- Craft idempotent and idomatic code; Do more with less code.
+- Use OOP & Design Patterns as a guide; 99 Bottles of OOP
+- Programming is about learning; Naming things is hard.
 
 #### Things I Find Interesting
 

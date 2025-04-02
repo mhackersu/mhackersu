@@ -23,18 +23,14 @@
 #### Software Engineering Experience
 - CloudFlare
 - EKS, GKE
-- CI, Integration Tests
-- Unit Tests, Feature Requests
+- Java, C#, Parse, PostgreSQL
 - Go, Ruby, TS
 
-#### Full-Stack Experience
-- Vercel
+#### Fav Full-Stack
 - ReactJS
 - Vite
 - Tailwind
-- Clerk
-- GelData
-- TanStack
+- Supabase
 
 #### Philosophy
 

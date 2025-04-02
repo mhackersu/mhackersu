@@ -28,6 +28,12 @@
 - Perfect is the enemy of good
 - Finding flow in refinement
 
+#### Technologies that I am interested in
+- ReactJS
+- Clerk
+- Tanstack
+- GelData
+
 #### Things I Find Interesting
 
 - A [brief history](https://www.netlify.com/blog/2018/08/14/announcing-netlify-drop-the-simplicity-of-bitballoon-with-the-added-power-of-netlify/) of Bit Balloon

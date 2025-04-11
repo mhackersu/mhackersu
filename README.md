@@ -1,36 +1,30 @@
 # Mike Hacker
 
-**Full-Stack Engineer** with experience creating **automation code in Python**, **component code in Go**, and **web application code in NodeJS and ReactJS, and Ruby, in Rails**.
-- [Full-Stack CV](https://full-stack-cv.vercel.app/)
+**Platform Engineer** with experience creating **automation code in Python**, **component code in Go**, and **Ruby**.
+- [Full-Stack CV](https://platform-engineer-cv.vercel.app/)
 - [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
 ## Engineering Experience
 
 ### Full-Time Experience
-- Sr. SWE - WP Engine, Remote (2022-24)
-- Sr. Platform Engineer - FIMC, Remote (2020-22)
+- Sr. Platform Engineer (Edge) - WP Engine, Remote (2022-24)
+- Sr. Platform Engineer (Middleware) - FIMC, Remote (2020-22)
 - Sr. DevOps Engineer - Tyler Technologies, Remote (2018-20)
 
 ### Freelance Experience
 - DevOps Engineer - Pizza Hut Digital Ventures, UK (2017)
 - Full-Stack Developer - TxDOT, Austin, TX (2016)
-- Full-Stack Developer - General Assembly, Austin, TX (2015)
+- Web Development Immersive - General Assembly, Austin, TX (2015)
     
 ### Education
 - University of North Texas (2010-14) [BAAS - Economics]
 - Collin County Community College (1998-2000) [AS - Finance]
 
-#### Software Engineering Experience
-- CloudFlare
+#### Professional Skills
+- Go, Ruby, Py
+- PostgreSQL, MySQL
 - EKS, GKE
-- Java, C#, Parse, PostgreSQL
-- Go, Ruby, TS
-
-#### Fav Full-Stack
-- ReactJS
-- Vite
-- Tailwind
-- Supabase
+- CloudFlare
 
 #### Philosophy
 
@@ -38,14 +32,14 @@
 - Use OOP & Design Patterns as a guide; 99 Bottles of OOP
 - Programming is about learning; Naming things is hard.
 
-#### Things I Find Interesting
+#### Interesting Finds
 
 - A [brief history](https://www.netlify.com/blog/2018/08/14/announcing-netlify-drop-the-simplicity-of-bitballoon-with-the-added-power-of-netlify/) of Bit Balloon
 - [Persistant Storage Serverless Function Apps](https://read.seas.harvard.edu/~kohler/class/cs260r-s19/projects/cs260r-s19-melange.pdf)
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
+# Go with C
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
-
 
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

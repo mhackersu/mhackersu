@@ -4,7 +4,7 @@
 - [Platform Engineer CV](https://platform-engineer-cv.vercel.app/)
 - [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
-## Engineering Experience
+## Professional Experience
 
 ### Full-Time Experience
 - Sr. Platform Engineer (Edge) - WP Engine, Remote (2022-24)

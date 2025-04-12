@@ -17,7 +17,7 @@
 - Web Development Immersive - General Assembly, Austin, TX (2015)
     
 ### Education
-- University of North Texas (2010-14) [BAAS - Economics]
+- University of North Texas (2010-2014) [BAAS - Economics]
 - Collin County Community College (1998-2000) [AS - Finance]
 
 #### Professional Skills

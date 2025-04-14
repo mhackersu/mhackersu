@@ -41,6 +41,8 @@
 # Go with C
 <img src="go-with-C-book.svg" alt="go-with-C-book" width="125"/>
 
+<a href="https://app.daily.dev/mhackersu"><img src="https://api.daily.dev/devcards/v2/8ybz799S0MGIWM4CoDdFv.png?r=xy6&type=default" width="356" alt="Mike Hacker's Dev Card"/></a>
+
 <!--
 **mhackersu/mhackersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

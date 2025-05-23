@@ -7,12 +7,12 @@
 ## Professional Experience
 
 ### Full-Time Experience
-- Sr. Platform Engineer (Edge) - WP Engine, Remote (2022-24)
-- Staff DevOps Engineer - FIMC, Remote (2019-22)
-- Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Remote (2018)
+- Sr. Platform Engineer (Edge) - WP Engine, Austin, TX (Remote) (2022-24)
+- Staff DevOps Engineer - FIMC, Madison, WI (Remote) (2019-22)
+- Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
 
 ### Freelance Experience
-- DevOps Engineer - Pizza Hut Digital Ventures, UK (2017)
+- DevOps Engineer - Pizza Hut Digital Ventures, London, UK (Remote) (2017)
 - Full-Stack Developer - TxDOT, Austin, TX (2016)
 - Web Development Immersive - General Assembly, Austin, TX (2015)
     

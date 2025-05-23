@@ -8,8 +8,8 @@
 
 ### Full-Time Experience
 - Sr. Platform Engineer (Edge) - WP Engine, Remote (2022-24)
-- Sr. Platform Engineer (Middleware) - FIMC, Remote (2020-22)
-- Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Remote (2018-20)
+- Sr. Platform Engineer (Middleware) - FIMC, Remote (2019-22)
+- Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Remote (2018)
 
 ### Freelance Experience
 - DevOps Engineer - Pizza Hut Digital Ventures, UK (2017)

@@ -21,10 +21,7 @@
 - Collin County Community College (1998-2000) [AS - Finance]
 
 #### Professional Skills
-- Go, Ruby, Py
-- PostgreSQL, MySQL
-- EKS, GKE
-- CloudFlare
+- Go, GKE, CloudSQL, CloudFlare
 
 #### Philosophy
 

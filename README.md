@@ -7,7 +7,7 @@
 ## Professional Experience
 
 ### Full-Time Experience
-- Sr. Platform Engineer (Edge) - WP Engine, Austin, TX (Remote) (2022-24)
+- Sr. Platform Software Engineer (Networking, Edge) - WP Engine, Austin, TX (Remote) (2022-24)
 - Staff DevOps Engineer - FIMC, Madison, WI (Remote) (2019-22)
 - Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
 

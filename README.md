@@ -1,18 +1,18 @@
 # Mike Hacker
 
 **Platform Engineer** with experience creating **automation code in Python**, **component code in Go**, and **Ruby**.
-- [Platform Engineer CV](https://platform-engineer-cv.vercel.app/)
+- [Platform Engineer CV](https://software-engineer-cv.vercel.app/)
 - [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
 ## Professional Experience
 
 ### Full-Time Experience
-- IaS Engineer (Networking, Edge) - WP Engine, Austin, TX (Remote) (2022-24)
-- Staff DevOps Engineer - FIMC, Madison, WI (Remote) (2019-22)
-- Sr. DevOps Engineer - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
+- Sr. Software Engineer - WP Engine, Austin, TX (Remote) (2022-24)
+- Sr. Software Engineer - FIMC, Madison, WI (Remote) (2019-22)
+- Sr. Software Engineer - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
+- Sr. Software Engineer - Pizza Hut Digital Ventures, London, UK (Remote) (2017)
 
-### Freelance Experience
-- DevOps Engineer - Pizza Hut Digital Ventures, London, UK (Remote) (2017)
+### Full-Time Experience
 - Full-Stack Developer - TxDOT, Austin, TX (2016)
 - Web Development Immersive - General Assembly, Austin, TX (2015)
     
@@ -21,7 +21,7 @@
 - Collin County Community College (1998-2000) [AS - Finance]
 
 #### Professional Skills
-- Go, GKE, CloudSQL, CloudFlare
+- Py, Go, Ruby, C#, GKE, CloudSQL, CloudFlare
 
 #### Research
 - [IaaS](https://github.com/bfsio/inf-svc)

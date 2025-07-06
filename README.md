@@ -6,10 +6,10 @@
 ## Professional Experience
 
 ### Full-Time Experience
-- Sr. Software Engineer [Go, Ruby, Py] - WP Engine, Austin, TX (Remote) (2022-24)
-- Sr. Software Engineer [Java, C#] - FIMC, Madison, WI (Remote) (2019-22)
-- Sr. Software Engineer [Py, C#] - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
-- Sr. Software Engineer [NodeJS, PHP] - Pizza Hut Digital Ventures, London, UK (Remote) (2017)
+- Sr. Software Engineer [GKE, Go, Ruby, Py] - WP Engine, Austin, TX (Remote) (2022-24)
+- Sr. Software Engineer [AZ, Java, C#] - FIMC, Madison, WI (Remote) (2019-22)
+- Sr. Software Engineer [AWS, Py, C#] - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2018)
+- Sr. Software Engineer [AWS, NodeJS, PHP] - Pizza Hut Digital Ventures, London, UK (Remote) (2017)
 
 ### Full-Time Experience
 - Full-Stack Developer [NodeJS] - TxDOT, Austin, TX (2016)
@@ -18,9 +18,6 @@
 ### Education
 - University of North Texas (2010-2014) [BAAS - Economics]
 - Collin County Community College (1998-2000) [AS - Finance]
-
-#### Skills
-- Py, Go, Ruby, C#, GKE, CloudSQL, CloudFlare
 
 #### Research
 - [IaaS](https://github.com/bfsio/inf-svc)

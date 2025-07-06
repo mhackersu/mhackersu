@@ -1,7 +1,6 @@
 # Mike Hacker
 
-**Platform Engineer** with experience creating **automation code in Python**, **component code in Go**, and **Ruby**.
-- [Platform Engineer CV](https://software-engineer-cv.vercel.app/)
+- [Sr. Software Engineer CV](https://sr-software-engineer-cv.vercel.app/)
 - [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
 ## Professional Experience

@@ -25,7 +25,7 @@
 #### Philosophy
 
 - Craft idempotent and idomatic code; Do more with less code.
-- Use OOP & Design Patterns as a guide; 99 Bottles of OOP
+- Use D3 & SOLID as guides.
 - Programming is about learning; Naming things is hard.
 
 #### Interesting Finds

@@ -19,7 +19,7 @@
 - University of North Texas (2010-2014) [BAAS - Economics]
 - Collin County Community College (1998-2000) [AS - Finance]
 
-#### Research
+### Research
 - [IaaS](https://github.com/bfsio/inf-svc)
 
 # Go with C

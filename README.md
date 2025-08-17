@@ -24,9 +24,8 @@
 
 #### Philosophy
 
-- Use D3 & SOLID as guides.
-- Programming is about learning.
-- Naming things is hard.
+- Use D3 & SOLID as guides
+- Programming is about learning
 
 #### Interesting Finds
 
